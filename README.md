@@ -16,12 +16,12 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />][facebook]
-[<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />][https://www.instagram.com/houssam.bouyahia.72/]
+[<img align="left" width="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/instagram/instagram-original.svg" />][https://www.instagram.com/houssam.bouyahia.72/]
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" />][whatsapp]
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />][stackoverflow]
 [<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />][discord]
-[<
+
 
 
 ---
