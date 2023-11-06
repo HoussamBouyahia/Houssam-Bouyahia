@@ -11,4 +11,4 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 
 ### ⚙️  Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
