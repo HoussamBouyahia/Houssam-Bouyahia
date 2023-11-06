@@ -1,6 +1,6 @@
-### Hey there!👋   I am Houssam Bouyahia 🌟
+### Hey there!👋   I am Houssam 🌟
 
- ***`Web Developer`***
+ ***`Web Developer 👨‍💻`***
 
 I'm a passionate web developer who thrives on crafting seamless and innovative digital experiences. My primary love lies in **Laravel**, and I'm deeply dedicated to mastering it. Constantly learning and exploring, I'm determined to broaden my horizons and dive into emerging technologies like **ReactJS** or **VueJS** in the near future.
 
@@ -14,7 +14,7 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 
 
-### ⚙️  Languages and tools
+### ⚙️  Techs && Tools  🧰
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
