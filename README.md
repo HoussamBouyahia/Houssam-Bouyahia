@@ -14,6 +14,11 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 
 
+
+---
+
+
+
 ### ⚙️  Techs && Tools  🧰
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -33,16 +38,9 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/
-139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  />
+139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  /> <br><br>
 
 
-
----
-
-
-
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=houssambouyahia&layout=compact)
           
           
           
