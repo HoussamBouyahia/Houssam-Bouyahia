@@ -8,7 +8,7 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 **Stay tuned for my journey through code! 🚀**
 
-
+---
 
 ### ⚙️  Languages and tools
 
@@ -30,7 +30,6 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  />
 
-          <!-- align="left" width="50px" style="padding-right:10px;" -->
 
           
           
