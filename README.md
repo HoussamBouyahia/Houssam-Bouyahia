@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HoussamBouyahia/HoussamBouyahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- generate a paragraph about me, a passionate developer who learns laravel actually and plans to learn react in the future   
+ -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/)
+- 🌱 I’m currently learning [React](https://reactjs.org/)
+- 👯 I’m looking to collaborate on [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/)
+- 🤔 I’m looking for help with [React](https://reactjs.org/)
+- 💬 Ask me about [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/)
+- 📫 How to reach me: [Twitter](https://twitter.com/ahmedash95)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a big fan of [Laravel](https://laravel.com/) and [Vue](https://vuejs.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
