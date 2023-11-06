@@ -19,7 +19,7 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
   <img align="left" alt="Houssam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://www.instagram.com/houssam_ouahbi/">
-  <img align="left" alt="Houssam's Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />
+  <img align="left" alt="Houssam's Instagram" width="22px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/instagram/instagram-original.svg" />
 </a>
 
 <a href="mailto:houssambouyahia72@gmail.com">
