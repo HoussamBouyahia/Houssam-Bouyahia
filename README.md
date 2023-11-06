@@ -15,23 +15,19 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 ### Connect with me 📨 
 
 <!-- generate me a discord, whatsapp, email, instagram and x. -->
-<a href="https://www.linkedin.com/in/houssam-ouahbi-9b1b3a1b2/">
-  <img align="left" alt="Houssam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/houssam-9b1b3a1b2/">
+  <img align="left" alt="Houssam's Linkdein" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://www.instagram.com/houssam_ouahbi/">
-  <img align="left" alt="Houssam's Instagram" width="22px" src="https://github.com/devicons/devicon/tree/v2.15.1/icons/instagram/instagram-original.svg" />
+  <img align="left" alt="Houssam's Instagram" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
 <a href="mailto:houssambouyahia72@gmail.com">
-  <img align="left" alt="Houssam's Email" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  <img align="left" alt="Houssam's Email" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 
 <a href="https://discord.gg/">
-  <img align="left" alt="Houssam's Discord" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=+212636636636">
-  <img align="left" alt="Houssam's Whatsapp" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" />
+  <img align="left" alt="Houssam's Discord" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
 </a>
 
 <br><br>
