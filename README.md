@@ -36,14 +36,6 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"  />
 
 
-
----
-
-
-
-[![Houssam's GitHub stats](https://github-readme-stats.vercel.app/api?username=houssambouyahia)](https://github.com/houssambouyahia/github-readme-stats)
-
-
           
           
           
