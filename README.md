@@ -12,23 +12,10 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 ---
 
-### Connect with me 📨 
+### Contact me 📨 
 
-<!-- generate me a discord, whatsapp, email, instagram and x. -->
-<a href="https://www.linkedin.com/in/houssam-9b1b3a1b2/">
-  <img align="left" alt="Houssam's Linkdein" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://www.instagram.com/houssam_ouahbi/">
-  <img align="left" alt="Houssam's Instagram" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
-</a>
+generate me instagram discord gmail and linkedin links and icons
 
-<a href="mailto:houssambouyahia72@gmail.com">
-  <img align="left" alt="Houssam's Email" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-</a>
-
-<a href="https://discord.gg/">
-  <img align="left" alt="Houssam's Discord" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" />
-</a>
 
 <br><br>
 
