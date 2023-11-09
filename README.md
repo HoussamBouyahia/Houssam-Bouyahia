@@ -14,12 +14,15 @@ I believe in the power of continuous growth, and I'm eagerly planning to embark 
 
 ### Contact me 📨 
 
-<!-- generate different image link for instagram and discord than cdn jsdeliver -->
+<!-- generate indeed linkr -->
 <a href="https://www.linkedin.com/in/houssam-bouyahia-ab9828229/"><img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <a href="mailto:houssambouyahia72@gmail.com"><img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /></a>
 
 <a href="https://www.instagram.com/houssam.bouyahia.72/"><img align="left" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+
+<a href="https://www.facebook.com/houssam.bouyahia.72/"><img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+
 
 
 <br><br>
