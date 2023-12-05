@@ -17,7 +17,7 @@ By practicing everyday.I aspire to push the boundaries of my skills, seeking to 
 
 
 
-### ⚙️  Techs && Tools  🧰
+### 💻  Techs && Tools  🧰
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
@@ -30,6 +30,8 @@ By practicing everyday.I aspire to push the boundaries of my skills, seeking to 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+github one
 
 
 
