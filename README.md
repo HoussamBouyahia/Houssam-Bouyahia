@@ -4,7 +4,7 @@
 
 I'm a passionate web developer who thrives on crafting seamless and innovative digital experiences. 
 
-By practicing everyday, I aspire to push the boundaries of my skills, seeking to architect elegant solutions and robust systems, ultimately becoming a more versatile and adept developer than I was yesterday.
+I aspire to push the boundaries of my skills, seeking to architect elegant solutions and robust systems, ultimately becoming a more versatile and adept developer than I was yesterday.
 
 **Stay tuned for my journey through code! 🚀**
 
@@ -30,4 +30,4 @@ By practicing everyday, I aspire to push the boundaries of my skills, seeking to
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" width="50px" style="padding-right:10px; filter: invert(1)" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
